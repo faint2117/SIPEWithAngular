@@ -1,2 +1,2 @@
 # SIPEWithAngular
-SIPE, version with angularjs.
+SIPE, version with Angularjs.
